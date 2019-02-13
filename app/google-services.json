@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "844287716482",
+    "firebase_url": "https://appassignment-dfed1.firebaseio.com",
+    "project_id": "appassignment-dfed1",
+    "storage_bucket": "appassignment-dfed1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844287716482:android:00e8e799044c2f9f",
+        "android_client_info": {
+          "package_name": "com.example.pius712.appassingnment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844287716482-ktdtv4btlj01outa6q518drbph2jerjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWUqKueEH8Nmh-HwMBdjwEiSh9PCajKwI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
